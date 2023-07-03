@@ -1,0 +1,64 @@
+insite: `domain` Fwd: intitle:Index of / intext:resource/
+insite: `domain` intitle:index of settings.py
+insite: `domain` inurl:admin filetype:xlsx
+insite: `domain` db_password filetype:env
+insite: `domain` inurl: /wp-content/uploads/ inurl:robots.txt Disallow: filetype:txt
+insite: `domain` inurl:admin filetype:xls
+insite: `domain` intitle:index of *.apk
+insite: `domain` inurl:admin filetype:txt
+insite: `domain` intitle:index of /products
+insite: `domain` intitle:index of /mysql
+insite: `domain` intitle:index of
+insite: `domain` intitle:index of
+insite: `domain` intitle:index of /documents
+insite: `domain` intitle:index of php
+insite: `domain` intitle:index of admin.js
+insite: `domain` inurl:admin
+insite: `domain` intitle:index of wp-inc
+insite: `domain` site:.edu intext:index of payroll
+insite: `domain` intitle:index of /key/ key.txt
+insite: `domain` intitle:index of /key/ key.txt
+insite: `domain` inurl:forgotpassword.php
+insite: `domain` intext:index of logs
+insite: `domain` intitle:index of index.php.bak 
+insite: `domain` intitle:Index of *.py
+insite: `domain` intext:Index of services.php | pass.php | passwd.php | credentials.txt
+insite: `domain` inurl:cache/uploads
+insite: `domain` intitle:index of /.git/config
+insite: `domain` intitle:database backup filetype:sql
+insite: `domain` index of :wp-config.zip
+insite: `domain` intext:index of uploads
+insite: `domain` intext:password | passwd | pwd
+insite: `domain` inurl:/wp-content/uploads/ ext:txt username | user name | uname | user | userid | user id AND password | pass word | pwd | pw
+insite: `domain` allintext:password filetype:log after:2018
+insite: `domain` inurl:/wp-content/uploads/ ext:txt username AND password | pwd | pw
+insite: `domain` intitle:index of application-users.properties | mgmt-users.properties | *standalone.xml
+insite: `domain` intext:construct('mysql:host
+insite: `domain` intitle:database.php 	
+insite: `domain` inurl:database.php 
+insite: `domain` intext:db_password -git -gitlab
+insite: `domain` intext:Index of /password
+insite: `domain` intext:Index of /password
+insite: `domain` +htpasswd +WS_FTP.LOG filetype:log
+insite: `domain` intitle:admin intitle:login
+insite: `domain` intitle:TileServer GL - Server for vector and raster maps with GL styles
+insite: `domain` intitle:index of /views/auth/passwords
+insite: `domain` intext:user name intext:orion core -solarwinds.com
+insite: `domain` intitle:Vulnerability Report Critical ext:pdf
+insite: `domain` intitle:index of AT-admin.cgi
+insite: `domain` inurl:q=user/password
+insite: `domain` inurl:/user/register Powered by Drupal -CAPTCHA -Access denied
+insite: `domain` inurl:index.php?option=com_joomanager
+insite: `domain` inurl:/proc/self/cwd
+insite: `domain` dirLIST - PHP Directory Lister Banned files: php | php3 | php4 | php5 | htaccess | htpasswd | asp | aspx index of ext:php
+insite: `domain` inurl:robots.txt intext:CHANGELOG.txt intext:disallow ext:txt -site:github.com
+insite: `domain` inurl:/wp-content/w3tc/dbcache/
+insite: `domain` inurl:.php?
+insite: `domain` intext:CHARACTER_SETS,COLLATIONS,
+insite: `domain` ?intitle:phpmyadmin
+insite: `domain` inurl:php intitle:Cpanel , FTP CraCkeR
+insite: `domain` intitle:[EasyPHP] - Administration
+insite: `domain` intitle:cyber anarchy shell
+insite: `domain` inurl:/vb/install/install.php
+insite: `domain` intitle:Uploader - Uploader v6 -pixloads.com
+insite: `domain` intitle:phpMyAdmin Welcome to phpMyAdmin *** running on * as root@*
