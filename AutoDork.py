@@ -41,10 +41,10 @@ def AutoDork(filename):
         S = lambda X: driver.execute_script('return document.body.parentNode.scroll'+X)
         driver.set_window_size(1920,S('Height'))
         driver.find_element(By.TAG_NAME, 'body').screenshot(f'screenshot' + f'{iteration}.png')
-        driver.quit()
 
         iteration += 1
 
     filename.close()
+    driver.quit()
 
 AutoDork("dorks.txt")
